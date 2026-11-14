@@ -1,8 +1,8 @@
-# RATH A.I. Technologies Website
+# RATH A. I. Technologies Website
 
 ## About the website
 
-This website introduces RATH A.I. Technologies, a Hyderabad-based provider of HVAC, power, electrical, and MEP services for commercial buildings, data centres, and other critical facilities. It presents the company's solutions, maintenance support, and contact options in a responsive, mobile-friendly format.
+This website introduces RATH A. I. Technologies, a Hyderabad-based provider of HVAC, power, electrical, and MEP services for commercial buildings, data centres, and other critical facilities. It presents the company's solutions, maintenance support, and contact options in a responsive, mobile-friendly format.
 
 The site is deployed on Vercel: [https://rathaitechnologies.vercel.app](https://rathaitechnologies.vercel.app).
 
@@ -11,6 +11,7 @@ The site is deployed on Vercel: [https://rathaitechnologies.vercel.app](https://
 - Responsive layouts for desktop, tablet, and mobile screens.
 - Sections for HVAC and power solutions, services, industries, company strengths, and contact details.
 - Mobile-friendly navigation and accessible page controls.
+- Animated, responsive contact ticker with WhatsApp, Gmail, phone, and Hyderabad location links.
 - Contact links for phone, email, Instagram, and WhatsApp.
 - Enquiry form that opens a prefilled Gmail compose window. The visitor reviews and sends the email from Gmail; the site does not submit or store form data.
 - Locally stored images and assets.

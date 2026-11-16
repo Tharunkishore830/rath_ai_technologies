@@ -639,6 +639,10 @@ textarea:focus-visible {
   line-height: var(--line-height-compact);
 }
 
+.hero-copy > h1.eyebrow {
+  font-family: var(--font-body);
+}
+
 .eyebrow-dot {
   width: 7px;
   height: 7px;
@@ -660,16 +664,17 @@ h3 {
   font-family: var(--font-heading);
 }
 
-.hero h1 {
+.hero .hero-title {
   max-width: 690px;
   margin-bottom: var(--space-6);
+  font-family: var(--font-heading);
   font-size: var(--font-size-hero-small);
   font-weight: var(--font-weight-bold);
   letter-spacing: var(--tracking-contact);
   line-height: var(--line-height-tight);
 }
 
-.hero h1 span {
+.hero .hero-title span {
   color: var(--orange);
 }
 
@@ -1854,7 +1859,7 @@ h3 {
     width: min(var(--container), calc(100% - var(--space-9)));
   }
 
-  .hero h1 {
+  .hero .hero-title {
     max-width: 620px;
     font-size: var(--font-size-hero-mobile);
   }
@@ -1968,7 +1973,7 @@ h3 {
     padding-bottom: var(--space-4);
   }
 
-  .hero h1 {
+  .hero .hero-title {
     font-size: var(--font-size-hero);
     letter-spacing: var(--tracking-display);
   }
